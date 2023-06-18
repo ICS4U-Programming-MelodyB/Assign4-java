@@ -1,0 +1,47 @@
+Book added: Java Programming
+Book added: Python Basics
+Invalid command: 
+Member signed up: John Smith
+Invalid command: Signup
+Member signed up: Melody Berhane
+Invalid command: 
+Member signed in: John Smith
+Book borrowed: Java Programming
+Invalid command: 
+Member signed up: Jane Doe
+Book already exists in the inventory: Python Basics
+Invalid command: 
+Book returned: Java Programming by John Smith
+Book donated: How To Love by John Smith
+Inventory:
+Book: Java Programming
+Author: John Doe
+Publisher: Publisher A
+Publication Date: 2021-01-01
+
+Book: Python Basics
+Author: Jane Smith
+Publisher: Publisher B
+Publication Date: 2022-02-02
+
+Book: How To Love
+Author: Melody Berhane
+Publisher: Titwech W
+Publication Date: 2022-02-02
+
+Member ID: 1
+Member Name: John Smith
+Amount Owed: $0.0
+
+Member ID: 2
+Member Name: Melody Berhane
+Amount Owed: $0.0
+
+Member ID: 3
+Member Name: Jane Doe
+Amount Owed: $0.0
+
+Book found: How To Love
+Author: Melody Berhane
+Publisher: Titwech W
+Publication Date: 2022-02-02
